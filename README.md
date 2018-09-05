@@ -32,7 +32,6 @@ Debe estar, más o menos, en el centro de la pantalla (no tiene porqué ser exac
 PC: 4000
 
 # IMAGENES
-Si quieres, puedes subir pantallazos y enlazarlos aquí.
 ![Actividad 1](activ1.png)
 ![Actividad 2](activ2.png)
 ![Actividad 3](activ3.png)
