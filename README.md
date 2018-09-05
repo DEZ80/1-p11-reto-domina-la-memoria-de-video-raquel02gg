@@ -27,7 +27,7 @@ PC: 4000
 ## Actividad 4: Cara de un dado de 8x7 píxeles
 Debe estar, más o menos, en el centro de la pantalla (no tiene porqué ser exacto)
 ```
-21 43 77 22 00 C8 18 FE
+3E F0 32 E7 C3 32 E8 C3 32 E7 DB 32 E8 DB 32 E7 F3 32 E8 F3 3E F6 32 E7 CB 32 E8 CB 32 E7 D3 32 E8 D3 32 E7 E3 32 E8 E3 32 E7 EB 32 E8 EB 18 FE
 ```
 PC: 4000
 
